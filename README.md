@@ -21,4 +21,4 @@ Last, click “file” and select “save as” and named it “login.js“.
 
 Step 4: Then code
 
-Technolgies used: Javascript,HTML,CSS,PHP and SQL
+Technologies used: Javascript,HTML,CSS,PHP and SQL
