@@ -12,3 +12,4 @@ Technologies used: Javascript,HTML,CSS,PHP and MySQL
 Code Editor: Vs Code
 Xampp Server for php
 Backend:MySQl and phpMyAdmin for connecting front end and backend
+Front end: Javascript, HTML and CSS
